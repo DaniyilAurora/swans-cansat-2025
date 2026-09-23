@@ -1,7 +1,9 @@
-﻿# Swans CanSat
+﻿# Swans CanSat 2025-2026
 
-This is a project that is being actively developed by a small team from Swans School Marbella to take part in the [CanSat Competition in Spain](https://esero.es/cansat).
+This is a project that has been actively developed by a small team from Swans School Marbella to take part in the [CanSat Competition in Spain](https://esero.es/cansat).
 The project consists from two separate modules, the ground station and the satellite itself.
+
+During the launches on 14th of April 2026, the team had been able to launch the satellite on the rocket. After the rocket launch, the team had presented the project and won Participation Award for great Data Analysis.
 
 ### Mission Control
 ![](docs/images/mission-control.png)
